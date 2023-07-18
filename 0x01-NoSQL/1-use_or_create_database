@@ -1,0 +1,3 @@
+// Making a database in mongo
+use my_db
+
